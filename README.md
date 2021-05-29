@@ -12,7 +12,7 @@
 **Instructions to follow on your laptop and phone below. To fetch OTP automatically, Step 2 is compulsory**
 
 ### 1. On your laptop
-1. Make sure [Python 3.8+](https://python.org) is installed.
+1. Make sure [Python 3.8+](https://python.org) is installed. *Note: If you are using Windows, follow [How to run on windows](#how-to-run-on-windows)*
 2. Clone this repo: ```git clone https://github.com/bombardier-gif/covid-vaccine-booking.git``` or download zip file and extract
 3. Install the requirements:
 	- ```pip install -r requirements.txt``` on Windows
@@ -375,6 +375,11 @@ Install all dependencies by running:
 
 ## How to run on windows
 
+### Quick Start
+1. *Step 1* - Download the Repository
+2. *Step 2* - Run `windows.bat` to install all dependencies & start this script
+
+### Advanced
 1. **Step 1** - [Download the source or exe](https://github.com/bombardier-gif/covid-vaccine-booking/releases/latest).
 2. **Step 2 -** Go to folder **tests** then **windows exe**.**zip**. Unzip the folder and Now run the program "**captcha_tests.exe**".  If you see a dialog box click on quit, and you will see a Captcha. If this is what happened you are all good to go. 
 3. Now come back to main folder unzip "**windows exe.zip**"go to this "**windows exe**" folder 
