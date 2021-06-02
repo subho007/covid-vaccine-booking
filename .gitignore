@@ -137,3 +137,5 @@ dmypy.json
 captcha.gif
 captcha.png 
 captcha.svg
+*.zip
+vendor/
